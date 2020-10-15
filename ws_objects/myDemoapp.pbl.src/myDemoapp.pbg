@@ -1,0 +1,19 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "myDemoapp.pbl" "";
+@end;
+@begin Objects 
+ "mytestapp.sra" "myDemoapp.pbl";
+ "f_run_tests_on_cmd.srf" "myDemoapp.pbl";
+ "n_cst_math_service.sru" "myDemoapp.pbl";
+ "n_cst_math_service_tests.sru" "myDemoapp.pbl";
+ "n_cst_string_service.sru" "myDemoapp.pbl";
+ "n_cst_string_service_tests.sru" "myDemoapp.pbl";
+ "n_cst_string_service_whatever_name.sru" "myDemoapp.pbl";
+ "nvo_developer.sru" "myDemoapp.pbl";
+ "nvo_developer_tests.sru" "myDemoapp.pbl";
+ "nvo_drink.sru" "myDemoapp.pbl";
+ "nvo_fake_drink.sru" "myDemoapp.pbl";
+ "suite_2_tests.sru" "myDemoapp.pbl";
+ "mywindow.srw" "myDemoapp.pbl";
+@end;
