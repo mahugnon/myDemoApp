@@ -1,0 +1,17 @@
+﻿$PBExportHeader$p_mytestapp_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:mytestapp.exe,,0,0,1
+CMP:0,0,0,2,0,0
+COM:CIM
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVN:1,0,0,1
+PVS:1.0.0.1
+FVN:1,0,0,1
+FVS:1.0.0.1
+PBD:myDemoapp.pbl,,1
+PBD:pbunit.pbl,,1
+PBD:pbunitfunc.pbl,,1
+
+ 

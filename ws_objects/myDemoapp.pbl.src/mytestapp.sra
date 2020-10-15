@@ -11,12 +11,8 @@ global message message
 end forward
 
 global variables
-long gl_returncode
-
-boolean gb_commandline = false
 
 end variables
-
 global type mytestapp from application
 string appname = "mytestapp"
 end type
@@ -38,14 +34,4 @@ destroy(sqlsa)
 destroy(error)
 destroy(message)
 end on
-
-event open;n_pbunit_LibraryManager lm 
-lm = create n_pbunit_LibraryManager;
-
-lm.StartPBUnit(Trim(commandline))
-
-//lm.StartPBUnit ("C:\Users\h.houekpetodji\Documents\PowerUnit\PBUnitHonoreDemo/myDemoapp.pbt");
-//lm.StartPBUnit ("C:\Users\h.houekpetodji\Documents\PowerUnit\PowerUnitGit\powerunit\demo\test2.pbt");
-
-end event
 
