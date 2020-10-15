@@ -1,0 +1,20 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "myDemoapp.pbl" "";
+@end;
+@begin Objects 
+ "ws_objects\myDemoapp.pbl.src\mytestapp.sra" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\f_run_tests_on_cmd.srf" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\p_mytestapp_exe.srj" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\n_cst_math_service.sru" "myDemoapp.pbl";
+ "n_cst_math_service_tests.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\n_cst_string_service.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\n_cst_string_service_tests.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\n_cst_string_service_whatever_name.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\nvo_developer.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\nvo_developer_tests.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\nvo_drink.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\nvo_fake_drink.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\suite_2_tests.sru" "myDemoapp.pbl";
+ "ws_objects\myDemoapp.pbl.src\mywindow.srw" "myDemoapp.pbl";
+@end;
