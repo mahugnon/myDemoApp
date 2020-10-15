@@ -15,5 +15,4 @@
  "nvo_drink.sru" "myDemoapp.pbl";
  "nvo_fake_drink.sru" "myDemoapp.pbl";
  "suite_2_tests.sru" "myDemoapp.pbl";
- "mywindow.srw" "myDemoapp.pbl";
 @end;
