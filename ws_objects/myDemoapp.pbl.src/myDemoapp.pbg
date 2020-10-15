@@ -4,7 +4,6 @@
 @end;
 @begin Objects 
  "mytestapp.sra" "myDemoapp.pbl";
- "f_run_tests_on_cmd.srf" "myDemoapp.pbl";
  "p_mytestapp_exe.srj" "myDemoapp.pbl";
  "n_cst_math_service.sru" "myDemoapp.pbl";
  "n_cst_math_service_tests.sru" "myDemoapp.pbl";
