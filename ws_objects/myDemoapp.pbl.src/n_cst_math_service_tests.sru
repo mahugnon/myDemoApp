@@ -18,7 +18,7 @@ event testadd();n_cst_math_service lnv_math
 lnv_math = create n_cst_math_service
 
 //messagebox('', string(lnv_math.of_add(1, 1)))
-assert( 'of_add failed becaued dddlll', 3 = lnv_math.of_add(1, 1)  )
+assert( 2 = lnv_math.of_add(1, 1)  )
 
 destroy(lnv_math)
 return
@@ -49,7 +49,7 @@ event test_add2();n_cst_math_service lnv_math
 
 lnv_math = create n_cst_math_service
  
-assert(  3 = lnv_math.of_add2()  )
+assert(  0= lnv_math.of_add2()  )
 
 destroy(lnv_math)
 return
