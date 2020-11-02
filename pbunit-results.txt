@@ -1,0 +1,8 @@
+n_cst_math_service_tests	a n_cst_math_service_tests.can_add_negative_numbers	True	True	0	1			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt
+n_cst_math_service_tests	a n_cst_math_service_tests.test_add2	True	True	0,0150	1			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt
+n_cst_math_service_tests	a n_cst_math_service_tests.testadd	True	True	0	1			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt
+n_cst_math_service_tests	a n_cst_math_service_tests.testmixadd	True	True	0	1			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt
+n_cst_math_service_tests	a n_cst_math_service_tests.testnegitiveadd	True	True	0	1			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt
+n_cst_string_service_tests	a n_cst_string_service_tests.testaddstring	True	True	0,0150	1			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt
+n_cst_string_service_whatever_name	a n_cst_string_service_whatever_name.testaddstring	True	True	0	1			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt
+nvo_developer_tests	a nvo_developer_tests.test_of_work	True	True	0	2			C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt

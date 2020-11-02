@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="pbunit-tests.xsl"?>
+<cruisecontrol>
+	<pbunit-test-results name="C:\Users\h.houekpetodji\Documents\EspaceDeTravail\myDemoApp\myDemoapp.pbt">
+		<test-suite name="n_cst_math_service_tests" time="0.0150" asserts="5" success="True">
+			<results>
+				<test-case name="a n_cst_math_service_tests.can_add_negative_numbers" time="0" asserts="1" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+				<test-case name="a n_cst_math_service_tests.test_add2" time="0.0150" asserts="1" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+				<test-case name="a n_cst_math_service_tests.testadd" time="0" asserts="1" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+				<test-case name="a n_cst_math_service_tests.testmixadd" time="0" asserts="1" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+				<test-case name="a n_cst_math_service_tests.testnegitiveadd" time="0" asserts="1" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+			</results>
+		</test-suite>
+		<test-suite name="n_cst_string_service_tests" time="0.0150" asserts="1" success="True">
+			<results>
+				<test-case name="a n_cst_string_service_tests.testaddstring" time="0.0150" asserts="1" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+			</results>
+		</test-suite>
+		<test-suite name="n_cst_string_service_whatever_name" time="0" asserts="1" success="True">
+			<results>
+				<test-case name="a n_cst_string_service_whatever_name.testaddstring" time="0" asserts="1" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+			</results>
+		</test-suite>
+		<test-suite name="nvo_developer_tests" time="0" asserts="2" success="True">
+			<results>
+				<test-case name="a nvo_developer_tests.test_of_work" time="0" asserts="2" success="True" executed="True">
+					<failure>
+						<message>
+							<![CDATA[]]>
+						</message>
+						<stack-trace>
+							<![CDATA[]]>
+						</stack-trace>
+					</failure>
+				</test-case>
+			</results>
+		</test-suite>
+	</pbunit-test-results>
+</cruisecontrol>
